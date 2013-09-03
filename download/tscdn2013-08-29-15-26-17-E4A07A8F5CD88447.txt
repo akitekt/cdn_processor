@@ -1,0 +1,1 @@
+a699cdbced2e86f7c95c8d17bbcc06d6c6cdf7788bbc585ae9aa8474401b48d6 tscdn.adp [29/Aug/2013:14:48:00 +0000] 10.253.215.31 arn:aws:iam::624475037983:user/slavin 6D0C2CDB7AAC8FF4 REST.GET.LOCATION - "GET /tscdn.adp?location HTTP/1.1" 200 - 137 - 19 - "-" "S3Console/0.4" -
